@@ -1,0 +1,19 @@
+# 빌드 파일
+build/
+dist/
+
+# 임시 파일
+*.log
+*.tmp
+
+# 에디터 설정
+.vscode/
+.idea/
+
+# OS별 임시 파일
+.DS_Store
+Thumbs.db
+
+# solution file
+*.vtu
+*.q
