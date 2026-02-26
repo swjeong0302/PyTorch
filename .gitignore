@@ -1,6 +1,7 @@
 # 빌드 파일
 build/
 dist/
+prac/data/
 
 # 임시 파일
 *.log
