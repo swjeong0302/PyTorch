@@ -2,6 +2,7 @@
 build/
 dist/
 prac/data/
+neural operator/data/
 
 # 임시 파일
 *.log
@@ -18,3 +19,6 @@ Thumbs.db
 # solution file
 *.vtu
 *.q
+*.pt
+*.tgz
+*.pth
