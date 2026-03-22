@@ -3,6 +3,7 @@ build/
 dist/
 prac/data/
 neural operator/data/
+trainer/
 
 # 임시 파일
 *.log
