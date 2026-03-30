@@ -4,6 +4,7 @@ dist/
 prac/data/
 neural operator/data/
 trainer/
+evaluator/
 
 # 임시 파일
 *.log
